@@ -49,3 +49,8 @@ button:hover {
   border: 1px solid #ddd; /* Optional: Add a border for better visibility */
   border-radius: 8px; /* Rounded corners */
 }
+.icon {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 5px; /* ריווח קל בין האייקון לטקסט */
+}
