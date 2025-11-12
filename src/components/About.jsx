@@ -3,7 +3,7 @@ import React from 'react';
 const About = () => {
   return (
     <section style={{ padding: '20px', textAlign: 'center' }}>
-      <h2 dir="rtl"><span className="icon">🚗</span>נתחיל בנסיעה הבטוחה שלכם!</h2>
+      <h2 dir="rtl">נתחיל בנסיעה הבטוחה שלכם!<span className="icon">🚗</span></h2>
 
       <h3>תודה שבחרתם לקחת את הצעד הראשון לנהיגה נכונה ובטוחה יותר</h3>
       <p dir="rtl"><span className="icon">🧘‍♀️</span>אני כאן כדי לעזור לכם לצבור ביטחון בכביש, להתמודד עם סיטואציות מאתגרות ולנהוג בצורה רגועה</p>
